@@ -15,7 +15,7 @@ lis=(
 
 for f in "${lis[@]}"; do
     rm -f ../${f}
-    ln -s ~/Dot-Files/${f} ../
+    ln -s ~/DotFiles/${f} ../
 
     if [ $? -gt 0 ]; then
 	echo 'err.'
