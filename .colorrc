@@ -1,0 +1,4 @@
+RESET 0      # reset to "normal" color
+DIR 01;34    # directory
+LINK 01;36   # symbolic link.
+
