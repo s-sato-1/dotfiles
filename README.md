@@ -1,6 +1,6 @@
 # DotFiles
 
-1. change to homedirectory & exec bash script
++ change to homedirectory & exec bash script
 
 ```
 $ cd ~
