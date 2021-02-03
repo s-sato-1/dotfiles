@@ -1,6 +1,7 @@
 #### path ###########################################################
 export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
+export SCREENDIR=$HOME/.screen
 
 #### color ##########################################################
 eval `dircolors ~/.colorrc`
